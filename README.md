@@ -10,7 +10,7 @@
 
 ## 📸 Tampilan Aplikasi
 
-![Tampilan Daily Task](https://imgur.com/a/EWz1VUB)
+![Tampilan Daily Task](https://i.imgur.com/TMBAEf7.png)
 *Antarmuka simpel dan responsif dengan fitur insert, checklist, pin, dan hapus tugas.*
 
 ---
